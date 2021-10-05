@@ -100,7 +100,7 @@ public class JavaStack {
 		int choosenMenu = 0;
 		while(loopX == 0) {
 			System.out.println("\nContoh Program Stack dengan Java");
-			System.out.println("\nProvide by wridwan.github.io");
+			System.out.println("Provide by wridwan.github.io");
 			System.out.println("Menu: ");
 			System.out.println("1. Tambah Stack");
 			System.out.println("2. Keluarkan 1 data dari Stack");
