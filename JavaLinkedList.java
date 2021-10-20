@@ -117,8 +117,8 @@ public class JavaLinkedList {
 	private static void programTitle() {
 		System.out.println("\nSimple Linked List Program"
 				         + "\nDitulis dalam bahasa pemrograman Java"
-				         + "\nOleh: Muhammad Irfan Luthfi"
-				         + "\ngithub.com/milstrike\n");
+				         + "\nOleh: Wawan Ridwan, ST,MT,PMP"
+				         + "\ngithub.com/ridwanw\n");
 	}
 	
 	private static void programSwitcher() {
